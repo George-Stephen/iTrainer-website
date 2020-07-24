@@ -26,7 +26,7 @@ body{
 }
 #more{
     padding-top: 80px;
-    padding-right: 300px;
+    padding-right: 250px;
 }
 #services{
     background-color: gainsboro;
@@ -45,4 +45,15 @@ body{
     cursor: pointer;
     
 }
-
+.portfolio img{
+    padding-top: 10px;
+    border-radius: 50px;
+}
+.portfolio h3{
+    text-decoration: underline;
+    font-family: fantasy;
+}
+.portfolio{
+    background-color: gainsboro;
+    padding: 40px 40px;
+}

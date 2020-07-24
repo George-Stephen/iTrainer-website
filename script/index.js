@@ -1,0 +1,18 @@
+$("document").ready(function(){
+    $(".personal,#personal").click(function(){
+        $(".personal").slideToggle(500);
+        $("#personal").slideToggle(500);
+    })
+    $(".team,#team").click(function(){
+        $(".team").slideToggle(500);
+        $("#team").slideToggle(500);
+    })
+    $(".group,#group").click(function(){
+        $(".group").slideToggle(500);
+        $("#group").slideToggle(500);
+    })
+    $(".boot,#boot").click(function(){
+        $(".boot").slideToggle(500);
+        $("#boot").slideToggle(500);
+    })
+});

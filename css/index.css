@@ -1,0 +1,48 @@
+#home{
+    background-image: url(../images/dumbbells_fitness_gym_113149_2560x1440.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body{
+    text-align: center;
+}
+.header{
+    padding-right: 600px;
+    padding-top: 300px;
+    padding-bottom: 250px;
+    color: wheat;
+}
+#s-button{
+    width: 200px;
+    height: 40px;
+}
+.service-img{
+    border-radius: 100px;
+}
+.profile{
+    border-radius: 100px;
+}
+#more{
+    padding-top: 80px;
+    padding-right: 300px;
+}
+#services{
+    background-color: gainsboro;
+    padding: 40px 40px;
+}
+#services h4{
+    text-decoration: underline;
+}
+#services article{
+    display: none;
+}
+.col-md-3 h5{
+    font-size: 15px;
+    color: rgb(79, 47, 109);
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+

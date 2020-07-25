@@ -51,9 +51,26 @@ body{
 }
 .portfolio h3{
     text-decoration: underline;
-    font-family: fantasy;
 }
 .portfolio{
     background-color: gainsboro;
     padding: 40px 40px;
+}
+.pricing h3{
+    text-decoration: underline;
+}
+.pricing
+{
+    padding: 20px 20px;
+    padding-left: 150px;
+}
+.pricing h4
+{
+    text-decoration: underline;
+}
+footer{
+    background-color: #2c292f;
+}
+footer h4{
+    font-size: 17px;
 }

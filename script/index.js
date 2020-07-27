@@ -15,4 +15,8 @@ $("document").ready(function(){
         $(".boot").slideToggle(500);
         $("#boot").slideToggle(500);
     })
+    $("#read-more,.more").click(function(){
+        $("#read-more").slideToggle(500);
+        $(".more").slideToggle(500);
+    })
 });

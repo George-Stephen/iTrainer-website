@@ -1,6 +1,7 @@
 body{
     text-align: center;
     font-family: fantasy;
+    background-color: gray;
 }
 .home{
     background-image: url(../images/1078022.jpg);
@@ -8,6 +9,9 @@ body{
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
+}
+h4{
+    text-decoration: underline;
 }
 .header{
     padding-top: 200px;

@@ -1,3 +1,7 @@
+
+h3{
+    text-decoration: underline;
+}
 #home{
     background-image: url(../images/dumbbells_fitness_gym_113149_2560x1440.jpg);
     background-size: cover;
@@ -7,6 +11,7 @@
 }
 body{
     text-align: center;
+    background-color: gray;
 }
 .header{
     padding-right: 600px;
@@ -79,4 +84,10 @@ footer h4{
 }
 #about{
     font-family: fantasy;
+}
+.more h3{
+    text-decoration: underline;
+}
+.more{
+    display: none;
 }

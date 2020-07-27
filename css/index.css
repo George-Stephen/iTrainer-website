@@ -28,7 +28,7 @@ body{
     border-radius: 100px;
 }
 #more{
-    padding-top: 80px;
+    padding-top: 50px;
     padding-right: 250px;
 }
 #services{
@@ -76,4 +76,7 @@ footer{
 }
 footer h4{
     font-size: 17px;
+}
+#about{
+    font-family: fantasy;
 }
